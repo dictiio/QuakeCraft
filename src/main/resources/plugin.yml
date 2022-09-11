@@ -1,0 +1,13 @@
+name: QuakeCraft
+version: '${project.version}'
+main: me.dictiooo.quakecraft.QuakeCraft
+api-version: 1.18
+authors: [ Dictiooo ]
+description: QuakeCraft mini-game.
+load: POSTWORLD
+
+commands:
+  start:
+  join:
+  setlobby:
+  addspawn:
